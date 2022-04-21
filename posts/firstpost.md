@@ -12,7 +12,7 @@ Then I expiramented with a new pattern I discovered made of circles. I also disc
 I took my new pattern along with my love for mind games, and optical illusions to create the final piece. I am fascinated by the way peoples eyes follow a piece where the artist wants, so I used that to my advantage. 
 I decided to really push myself during this process and further my abstraction abilities.
 
-## Section Header
+## 30-20-10
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
