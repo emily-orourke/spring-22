@@ -1,7 +1,7 @@
 ---
-title: This is my first post.
+title: Organized Chaos.
 description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+date: 2020-03-014
 tags:
   - another tag
 layout: layouts/post.njk
