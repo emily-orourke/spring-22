@@ -1,15 +1,16 @@
 ---
 title: Organized Chaos.
-description: This is a post on My Blog about agile frameworks.
+description: This is a post on my portfolio displaying an abstract piece I did for a class.
 date: 2020-03-014
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+This piece focuses on movement and depth throughout each stage of the project. It started with photographs taken of the library which I found to be interesting.
+Then I expiramented with a new pattern I discovered made of circles. I also discovered how the different techniques can create new textures and used this knowlege to better my final pieces. 
+I took my new pattern along with my love for mind games, and optical illusions to create the final piece. I am fascinated by the way peoples eyes follow a piece where the artist wants, so I used that to my advantage. 
+I decided to really push myself during this process and further my abstraction abilities.
 
 ## Section Header
 
@@ -25,3 +26,4 @@ function myCommand() {
 // Test with a line break above this line.
 console.log('Test');
 ```
+[Emily O'Rourke - Portfolio 15 - 30-20-10.pdf](https://github.com/emily-orourke/spring-22/files/8535113/Emily.O.Rourke.-.Portfolio.15.-.30-20-10.pdf)
